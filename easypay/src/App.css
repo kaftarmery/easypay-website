@@ -1,0 +1,14 @@
+@font-face {
+  font-family: "babylon";
+  src: url("./assets/fonts/Jasper.otf");
+}
+
+@font-face {
+  font-family: "thiccboi-regular"; /* Choose a name for your custom font */
+  src: url("./assets/fonts/THICCCBOI-Regular.ttf");
+}
+
+@font-face {
+  font-family: "thiccboi-bold"; /* Choose a name for your custom font */
+  src: url("./assets/fonts/THICCCBOI-Bold.ttf");
+}
